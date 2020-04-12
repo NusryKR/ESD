@@ -4,5 +4,5 @@ Recipes from Nusry
 
 1.Go to Dominos.com
 2.select the pizza.
-3.order
+3.order.
 
